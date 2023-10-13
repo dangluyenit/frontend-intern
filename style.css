@@ -97,7 +97,6 @@ section {
   max-width: 0 0 calc(33% - 20px);
   width: 100%;
   height: 100%;
-  cursor: pointer;
 }
 .title1 {
   color: #000;
@@ -125,7 +124,6 @@ section {
   max-width: 0 0 calc(33% - 20px);
   width: 100%;
   height: 100%;
-  cursor: pointer;
 }
 .title2 {
   color: #000;
@@ -153,7 +151,6 @@ section {
   max-width: 0 0 calc(33% - 20px);
   width: 100%;
   height: 100%;
-  cursor: pointer;
 }
 .title3 {
   color: #000;
@@ -170,6 +167,22 @@ section {
 }
 .content3 {
   color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+footer {
+  width: 90%;
+  height: 50px;
+  border-top: 1px solid gray;
+  position: absolute;
+  top: 60vw;
+  left: 10vw;
+  text-align: left;
+  padding: 15px 50px;
+  color: #3e3e3e;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
